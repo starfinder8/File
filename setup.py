@@ -9,7 +9,7 @@ classifiers = [
 ]
  
 setup(
-  name='File',
+  name='PuddleSF',
   version=' 1.0',
   description='A file saving library',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),

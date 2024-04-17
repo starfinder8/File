@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: File
+Name: PuddleSF
 Version: 1.0
 Summary: A file saving library
 Home-page: 
@@ -14,13 +14,15 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
 License-File: LICENSE
 
-# File
+# PuddleSF
 A package for saving and loading files
 
 ## How to use
-**save('your_data', 'your_file_name')<br>**
+**import dir**
 
-**load('your_file_name')<br>**
+**SF.save('your_data', 'your_file_name')<br>**
+
+**SF.load('your_file_name')<br>**
 
 
 Change log
